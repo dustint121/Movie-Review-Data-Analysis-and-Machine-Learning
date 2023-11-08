@@ -1,7 +1,7 @@
 # Movie-Review-Data-Analysis-and-Machine-Learning
 My final project from my DATA-301 course. This project uses movie data from 3 separate Kaggle datasets that combined have a total file size of over 1GB.
 
-This is an DEA(data exploration analysis) project of movies combined with the creation of a machine learning model that attempts to predict individual movie critic review scores(0-100) based on available data 
+This is an EDA(Exploratory Data Analysis) project of movies combined with the creation of a machine learning model that attempts to predict individual movie critic review scores(0-100) based on available data 
 such as the critic review text, movie description, movie film rating, the movie budget and the movie box office.
 
 Juptyer Notebooks are meant to be ran in this order: Data_Exploration.ipynb , Data_Collection.ipynb, Machine_Learning_Code.ipynb
